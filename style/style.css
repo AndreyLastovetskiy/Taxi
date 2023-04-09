@@ -1,0 +1,33 @@
+.create-operator {
+    gap: 20px;
+    display: flex;
+    width: 300px;
+    flex-direction: column;
+}
+.create-oper-taxi {
+    display: flex;
+    gap: 50px;
+}
+.au-cart {
+    display: flex;
+    background-color: blanchedalmond;
+    width: 350px;
+    height: 130px;
+    align-items: center;
+    margin-top: 10px;
+    padding: 10px;
+}
+.auc-urls {
+    margin-left: auto;
+}
+.more-info {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+.create-order {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    gap: 20px;
+}
